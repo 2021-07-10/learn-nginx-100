@@ -1,1 +1,4 @@
 .DS_Store
+.vagrant
+nginx-1.22.0.tar.gz
+nginx-1.22.0
