@@ -2,3 +2,5 @@
 .vagrant
 nginx-1.22.0.tar.gz
 nginx-1.22.0
+dlib-19.24.tar.bz2
+dlib-19.24
