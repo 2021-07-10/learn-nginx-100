@@ -1,0 +1,6 @@
+# 41 | 使用动态模块来提升运维效率
+
+
+```bash
+./configure --help | grep dynamic
+```
